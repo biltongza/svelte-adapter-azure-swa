@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://www.github.com/geoffrich/svelte-adapter-azure-swa/compare/v0.3.0...v0.4.0) (2022-01-07)
+
+
+### Features
+
+* add immutable cache headers to hashed assets ([66e4cc4](https://www.github.com/geoffrich/svelte-adapter-azure-swa/commit/66e4cc4f520dabeb57050db805073dd98b482c2e))
+
 ## [0.3.0](https://www.github.com/geoffrich/svelte-adapter-azure-swa/compare/v0.2.0...v0.3.0) (2022-01-07)
 
 
